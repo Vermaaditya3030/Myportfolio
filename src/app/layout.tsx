@@ -4,7 +4,7 @@ import ThemeProvider from '@/components/shared/ThemeProvider';
 import Header from '@/components/shared/Header';
 
 export const metadata: Metadata = {
-    title: 'Abhishek | Developer Portfolio',
+    title: 'Aditya | Developer Portfolio',
     description:
         'A premium personal portfolio showcasing projects, skills, and experience. Built with Next.js, TypeScript, and modern web technologies.',
     keywords: ['portfolio', 'developer', 'full-stack', 'react', 'nextjs', 'typescript'],
