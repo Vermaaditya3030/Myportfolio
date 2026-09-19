@@ -15,8 +15,6 @@ const aiWorkflow = [
     { tool: 'ChatGPT', role: 'Planning & Debugging' },
     { tool: 'Gemini Pro 3.1', role: 'Code Generation' },
     { tool: 'Claude Opus 4.5', role: 'Code Generation' },
-    { tool: 'Sonnet 4.6 (Thinking)', role: 'Structured Reasoning' },
-    { tool: 'Antigravity', role: 'AI-native IDE' },
 ];
 
 export default function EngineeringWorkflow() {
