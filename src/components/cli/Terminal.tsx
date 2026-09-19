@@ -258,7 +258,7 @@ export default function Terminal() {
                         className="flex-1 text-center text-[10px] sm:text-xs terminal-font truncate"
                         style={{ color: 'var(--text-muted)' }}
                     >
-                        abhishek@portfolio:~
+                        aditya@Myportfolio:~
                     </span>
                     <div className="w-10 sm:w-14" />
                 </div>
