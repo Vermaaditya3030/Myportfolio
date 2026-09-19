@@ -128,10 +128,10 @@ function aboutCommand(): CommandResult {
     type: 'output',
     content: [
       '',
-      '  {{accent}}Name:{{/accent}}       Abhishek Kumar',
+      '  {{accent}}Name:{{/accent}}       Aditya Verma',
       '  {{accent}}Role:{{/accent}}       Software Engineer',
-      '  {{accent}}Location:{{/accent}}   Delhi, India',
-      '  {{accent}}Phone:{{/accent}}      +91 6387366258',
+      '  {{accent}}Location:{{/accent}}   Lucknow, India',
+      '  {{accent}}Phone:{{/accent}}      +91 9511493424',
       '',
       '  Software Engineer with strong foundations in Data',
       '  Structures & Algorithms and experience building',
