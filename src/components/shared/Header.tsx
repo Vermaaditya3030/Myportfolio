@@ -45,7 +45,7 @@ export default function Header() {
                     }}
                     aria-label="Home"
                 >
-                    {isCliMode ? '~/abhishek' : 'A.'}
+                    {isCliMode ? '~/aditya' : 'A.'}
                 </Link>
 
                 {/* Desktop Nav */}
