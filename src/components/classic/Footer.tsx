@@ -21,7 +21,7 @@ const socialLinks = [
     },
     {
         label: 'Twitter',
-        href: 'https://twitter.com/AdityaVerm23554_',
+        href: 'https://twitter.com/AdityaVerm23554',
         icon: (
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
@@ -172,7 +172,7 @@ export default function Footer() {
                         opacity: 0.6,
                     }}
                 >
-                    <p>© {new Date().getFullYear()} Abhishek. All rights reserved.</p>
+                    <p>© {new Date().getFullYear()} Aditya. All rights reserved.</p>
                 </div>
             </div>
         </footer>
