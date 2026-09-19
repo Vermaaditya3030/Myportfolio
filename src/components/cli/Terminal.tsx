@@ -64,7 +64,7 @@ const WELCOME_LINES: TerminalLine[] = [
     { id: 'w0', type: 'system', content: '' },
     { id: 'w1', type: 'system', content: '  +---------------------------------+' },
     { id: 'w2', type: 'system', content: '  |                                 |' },
-    { id: 'w3', type: 'system', content: '  |   Welcome to Abhishek\'s CLI     |' },
+    { id: 'w3', type: 'system', content: '  |   Welcome to Aditya\'s CLI     |' },
     { id: 'w4', type: 'system', content: '  |                                 |' },
     { id: 'w5', type: 'system', content: '  |  Type \'help\' to get started     |' },
     { id: 'w6', type: 'system', content: '  |                                 |' },
